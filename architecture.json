@@ -1,0 +1,160 @@
+{
+  "book_id": "classical_greek_metafictional_generational_conflict",
+  "title": "The Ditch and the Labyrinth",
+  "tagline": "A young Athenian's search for meaning threatens the legacy his father built from nothing.",
+  "target_words": 70000,
+  "actual_words": 78178,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Burden of Upward Mobility",
+    "Philosophy vs. Pragmatism",
+    "The Metafictional Nature of Myth",
+    "The Hollow Core of Social Ritual"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Symposium of Ghosts",
+      "words": 3256
+    },
+    {
+      "ch": 2,
+      "title": "The Road to Athens",
+      "words": 3256
+    },
+    {
+      "ch": 3,
+      "title": "The Street of the Marble Workers",
+      "words": 3256
+    },
+    {
+      "ch": 4,
+      "title": "The Agora of Ideas",
+      "words": 3256
+    },
+    {
+      "ch": 5,
+      "title": "The First Letter Home",
+      "words": 3256
+    },
+    {
+      "ch": 6,
+      "title": "The Playwright's Shadow",
+      "words": 3256
+    },
+    {
+      "ch": 7,
+      "title": "A Commission in Stone",
+      "words": 3256
+    },
+    {
+      "ch": 8,
+      "title": "The Oracle's Empty Cave",
+      "words": 3256
+    },
+    {
+      "ch": 9,
+      "title": "Fathers and Founders",
+      "words": 3256
+    },
+    {
+      "ch": 10,
+      "title": "The Debt Comes Due",
+      "words": 3256
+    },
+    {
+      "ch": 11,
+      "title": "The Symposium Revisited",
+      "words": 3256
+    },
+    {
+      "ch": 12,
+      "title": "The Crack in the Mural",
+      "words": 3256
+    },
+    {
+      "ch": 13,
+      "title": "The Choice of Knossos",
+      "words": 3256
+    },
+    {
+      "ch": 14,
+      "title": "Into the Scriptorium",
+      "words": 3256
+    },
+    {
+      "ch": 15,
+      "title": "The Hero's Monologue",
+      "words": 3256
+    },
+    {
+      "ch": 16,
+      "title": "The Monster's Plea",
+      "words": 3256
+    },
+    {
+      "ch": 17,
+      "title": "Drafting the Labyrinth",
+      "words": 3256
+    },
+    {
+      "ch": 18,
+      "title": "The Messenger from Philus",
+      "words": 3256
+    },
+    {
+      "ch": 19,
+      "title": "Barley from the Ditch",
+      "words": 3256
+    },
+    {
+      "ch": 20,
+      "title": "The Unmasked Performance",
+      "words": 3256
+    },
+    {
+      "ch": 21,
+      "title": "The Audience Revolts",
+      "words": 3256
+    },
+    {
+      "ch": 22,
+      "title": "The Chisel and the Quill",
+      "words": 3256
+    },
+    {
+      "ch": 23,
+      "title": "A New Foundation Myth",
+      "words": 3256
+    },
+    {
+      "ch": 24,
+      "title": "The Unfinished Stage",
+      "words": 3256
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where Alexandros, now a playwright, overhears common Athenians in the agora grossly misinterpreting the message of his latest play.",
+      "Draft the letter Leonidas writes but never sends after learning his son has become a 'maker of fictions'.",
+      "Describe a rehearsal where the actor playing the Minotaur argues with Alexandros about his character's motivation.",
+      "Create the final, climactic dialogue between Alexandros and his father, where myth, legacy, and the 'ditch' collide."
+    ],
+    "technical": [
+      "Build a web experience that allows a reader to toggle between the 'traditional' and 'Alexandrian' versions of the Theseus myth, highlighting the textual changes.",
+      "Create a generative text tool that mimics the style of the novel, producing new philosophical fragments or fatherly admonitions based on user-input themes."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Euripides",
+      "James Joyce",
+      "Thucydides",
+      "Jorge Luis Borges"
+    ]
+  },
+  "cover_prompt": "A young Athenian man, his face etched with philosophical anguish, stands at the precipice of a vast, dry labyrinth carved into sun-baked earth, while behind him looms the ghostly, monumental silhouette of his stoic father, [Detailed Scene & Context: the scene merges the literal and metaphorical, set at dusk where the man's personal labyrinth intersects with a massive, neglected irrigation ditch symbolizing his father's pragmatic legacy, on the outskirts of a stylized Athens], [Artistic Style & Medium: in the atmospheric and mythologically-charged style of Anselm Kiefer, with the textured, material depth of a mixed-media painting using earth, ash, and gold leaf on cracked canvas], [Composition & Camera: book cover framing, a centered but low-angle composition that emphasizes the labyrinth's scale, the father's figure towering yet translucent, a dramatic and confrontational perspective], [Lighting & Color Palette: dramatic chiaroscuro lighting from a setting sun, casting long, tangled shadows, with a color palette of burnt umber, cracked gold, deep charcoal, and faded Aegean blue], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
